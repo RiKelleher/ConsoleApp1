@@ -9,5 +9,6 @@ namespace ConsoleApp1
     class NewClass
     {
         // part of feature 1.1 branch
+        // changes 1.1a in feature1.1 branch
     }
 }
